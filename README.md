@@ -9,11 +9,11 @@
 
 ## 주간 진행 상황
 ### Week 3 (26.01.05 - 25.01.11)
-- **작업 내역** 
-- **AI 활용** 
-- **완료 기능** 
-- **PR 로그** 
-- **다음 주 계획** 
+- **작업 내역**: 대화 기능 초안, api 구현 (map, interaction), main ci 구현, 전장의 안개 기능 (raycasting), map 데이터 구조 수정, client api 연결
+- **AI 활용**: Github Copilot을 사용한 issue to pr 생성으로 코드 구현, gemini cli를 통한 자료 조사, 코드 생성
+- **완료 기능**: map interaction api (server, client), main server ci 구현, 전장의 안개 기능, map 데이터 구조 수정
+- **PR 로그**: [대화 기능 초안](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/2), [api 구현](https://github.com/Apptive-Game-Team/MaechuriMainServer/pull/8), [docker ci](https://github.com/Apptive-Game-Team/MaechuriMainServer/pull/10), [전장의 안개](https://github.com/Apptive-Game-Team/MaechuriClient/pull/8), [맵 데이터 구조 변경](https://github.com/Apptive-Game-Team/MaechuriClient/pull/10), [client api 연결](https://github.com/Apptive-Game-Team/MaechuriClient/pull/12)
+- **다음 주 계획**: RAG 구현, suspect 대화 기능 고도화, 게임 엔딩 체크 Tool 구현, Client ref 기능 구현
 
 ### Week 2 (25.12.29 - 26.01.04)
 - **작업 내역**: jwt 기능 구현, history 디지털 서명 설계, asset 저장 기능 구현, asset 관리 admin 페이지 구현, 시나리오 증거 제작 기능 구현
