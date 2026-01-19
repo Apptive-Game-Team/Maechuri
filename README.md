@@ -8,6 +8,20 @@
 - Al Tools: Gemini Cli, Github Copilot
 
 ## 주간 진행 상황
+### Week 4 (26.01.12 - 26.01.18)
+- **작업 내역**: 증거 인벤토리 및 참조(Reference) 시스템 구축, AI 대화 로직 고도화(SBERT 도입), API 호출 제한(Rate Limit) 및 지문(Fingerprint) 인식 구현, 인프라 배포 자동화
+- **AI 활용**: SBERT 기반 임베딩 구현을 통한 대화 고도화, 환경변수 중앙 관리 및 CI 파이프라인 최적화
+- **완료 기능**: yh.yunseong.dev 서버 환경(Docker) 구축, 2단계 맵 생성 파이프라인, 용의자 단서 생성 로직, 클라이언트 카메라/채팅 UX 개선, 참조 시스템 UI/UX
+- **PR 로그**: 
+    - [하루 API 양 제한 구현](https://github.com/Apptive-Game-Team/MaechuriMainServer/pull/13)
+    - [Map 생성 파이프라인 및 고도화](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/18)
+    - [용의자 대화 시스템 구현](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/16)
+    - [SBERT Embedding 구현](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/22)
+    - [레퍼런스 기능 구현 (Client)](https://github.com/Apptive-Game-Team/MaechuriClient/pull/17)
+    - [카메라 시스템 및 채팅 UX 개선](https://github.com/Apptive-Game-Team/MaechuriClient/pull/15)
+    - [API 호출 커스텀 (Fingerprint/Cache)](https://github.com/Apptive-Game-Team/MaechuriClient/pull/19)
+- **다음 주 계획**: 증거 인벤토리 시스템 연동 완료, '시스템 과부화' 및 '자백 모드' 로직 구체화, SBERT를 활용한 RAG 성능 최적화
+
 ### Week 3 (26.01.05 - 25.01.11)
 - **작업 내역**: 대화 기능 초안, api 구현 (map, interaction), main ci 구현, 전장의 안개 기능 (raycasting), map 데이터 구조 수정, client api 연결
 - **AI 활용**: Github Copilot을 사용한 issue to pr 생성으로 코드 구현, gemini cli를 통한 자료 조사, 코드 생성
