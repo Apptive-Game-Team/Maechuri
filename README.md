@@ -8,6 +8,17 @@
 - Al Tools: Gemini Cli, Github Copilot
 
 ## 주간 진행 상황
+### Week 5 (26.01.19 - 26.01.25)
+- **작업 내역**: main-server <-> ai-server 소통 기능 구현, 시나리오 생성 상호작용 방식 수정 (비동기 방식으로), 엔딩 판단 로직 고도화
+- **AI 활용**: Github Copilot을 사용한 issue to pr 생성으로 코드 구현, gemini cli를 통한 자료 조사, 코드 생성
+- **완료 기능**: game_session 방식 구현, 시나리오 생성 상호작용 방식 수정, 엔딩 판단 로직 고도화
+- **PR 로그**:
+    - [ai-main 연결](https://github.com/Apptive-Game-Team/MaechuriMainServer/pull/15)
+    - [rag, game session](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/32)
+    - [리펙터링 (일관성1)](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/35)
+    - [리펙터링 (일관성2)](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/37)
+    - [엔딩 판단](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/38)
+
 ### Week 4 (26.01.12 - 26.01.18)
 - **작업 내역**: 증거 인벤토리 및 참조(Reference) 시스템 구축, AI 대화 로직 고도화(SBERT 도입), API 호출 제한(Rate Limit) 및 지문(Fingerprint) 인식 구현, 인프라 배포 자동화
 - **AI 활용**: SBERT 기반 임베딩 구현을 통한 대화 고도화, 환경변수 중앙 관리 및 CI 파이프라인 최적화
