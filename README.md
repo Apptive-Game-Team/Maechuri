@@ -8,6 +8,24 @@
 - Al Tools: Gemini Cli, Github Copilot
 
 ## 주간 진행 상황
+### Week 7 (26.02.02 - 26.02.08)
+- **작업 내역**: AI <-> Main <-> client 연결, 대화에서 fact 뽑아주기
+- **AI 활용**: Github Copilot을 사용한 issue to pr 생성으로 코드 구현, gemini cli를 통한 자료 조사, 코드 생성
+- **완료 기능**: AI <-> Main <-> client 연결
+- **PR 로그**:
+    - [redis](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/49)
+    - [data2prompt mapper 모으기 & 버그 고침](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/51)
+    - [main <-> ai 대화 연결](https://github.com/Apptive-Game-Team/MaechuriMainServer/pull/19)
+    - [지난주 수정된 데이터 구조 반영](https://github.com/Apptive-Game-Team/MaechuriMainServer/pull/17)
+
+### Week 6 (26.01.26 - 26.02.01)
+- **작업 내역**: 발표 준비, 시나리오 데이터 구조 수정 (단순화), map 구체화 로직 구현
+- **AI 활용**: Github Copilot을 사용한 issue to pr 생성으로 코드 구현, gemini cli를 통한 자료 조사, 코드 생성
+- **완료 기능**: 발표 준비, 시나리오 데이터 구조 단순화, map 로직 구현
+- **PR 로그**:
+    - [fact 통합](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/42)
+    - [데이터 구조 가지치기](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/47)
+
 ### Week 5 (26.01.19 - 26.01.25)
 - **작업 내역**: main-server <-> ai-server 소통 기능 구현, 시나리오 생성 상호작용 방식 수정 (비동기 방식으로), 엔딩 판단 로직 고도화
 - **AI 활용**: Github Copilot을 사용한 issue to pr 생성으로 코드 구현, gemini cli를 통한 자료 조사, 코드 생성
