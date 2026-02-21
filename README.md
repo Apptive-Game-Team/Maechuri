@@ -8,6 +8,26 @@
 - Al Tools: Gemini Cli, Github Copilot
 
 ## 주간 진행 상황
+### Week 9 (26.02.16 - 26.02.22)
+- **작업 내역**: 마인드 펠리스 ui 구현, fact, clue 참조 정상화
+- **AI 활용**: Github Copilot을 사용한 issue to pr 생성으로 코드 구현, gemini cli를 통한 자료 조사, 코드 생성
+- **완료 기능**:마인드 펠리스 UI, 하드 코딩된 Today scenario 수정, DB 마이그레이션 적용, 세션 ID 관리
+- **PR 로그**:
+    - [마인드 펠리스 UI](https://github.com/Apptive-Game-Team/MaechuriClient/pull/25)
+    - [하드 코딩된 Today scenario 수정](https://github.com/Apptive-Game-Team/MaechuriMainServer/pull/27)
+    - [DB 마이그레이션 적용](https://github.com/Apptive-Game-Team/MaechuriMainServer/pull/25)
+    - [세션 ID 관리](https://github.com/Apptive-Game-Team/MaechuriMainServer/pull/23)
+    - [enum 리펙터링](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/56)
+
+### Week 8 (26.02.09 - 26.02.15)
+- **작업 내역**: solve api 연결, solve ui 구현, ai server SBERT model 로드 문제 해결
+- **AI 활용**: Github Copilot을 사용한 issue to pr 생성으로 코드 구현, gemini cli를 통한 자료 조사, 코드 생성
+- **완료 기능**: solve api 연결, solve ui 구현, ai server SBERT model 로드 문제 해결
+- **PR 로그**: Solve UI, Solve API, 관련된 Fact Id 반환, 모델 로드 문제 해결
+    - [관련된 Fact Id 반환, 모델 로드 문제 해결](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/54)
+    - [Solve UI](https://github.com/Apptive-Game-Team/MaechuriClient/pull/23)
+    - [Solve API](https://github.com/Apptive-Game-Team/MaechuriMainServer/pull/21)
+
 ### Week 7 (26.02.02 - 26.02.08)
 - **작업 내역**: AI <-> Main <-> client 연결, 대화에서 fact 뽑아주기
 - **AI 활용**: Github Copilot을 사용한 issue to pr 생성으로 코드 구현, gemini cli를 통한 자료 조사, 코드 생성
