@@ -8,6 +8,21 @@
 - Al Tools: Gemini Cli, Github Copilot
 
 ## 주간 진행 상황
+### Week 10 (26.02.23 - 26.03.01)
+- **작업 내역**: 자동 이미지 생성 기능 구현, database 구조 단순화, map 시각화 관리자 페이지
+- **AI 활용**: Github Copilot을 사용한 issue to pr 생성으로 코드 구현, gemini cli를 통한 자료 조사, 코드 생성
+- **완료 기능**:
+- **PR 로그**:
+    - [map의 시각화 페이지 구현](https://github.com/Apptive-Game-Team/MaechuriMainServer/pull/29)
+    - [이미지 자동 생성 기능 구현](https://github.com/Apptive-Game-Team/MaechuriMainServer/pull/31)
+    - [이미지 생성을 위한 외견 설명 생성](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/60)
+    - [database 구조 단순화 - ai - 1](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/58)
+    - [database 구조 단순화 - ai - 2](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/62)
+    - [database 구조 단순화 - main](https://github.com/Apptive-Game-Team/MaechuriMainServer/pull/33)
+    - [좌표 정상화](https://github.com/Apptive-Game-Team/MaechuriMainServer/pull/35)
+    - [map 생성 개선 - 2](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/66)
+    - [map 생성 개선 - 1](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/64)
+
 ### Week 9 (26.02.16 - 26.02.22)
 - **작업 내역**: 마인드 펠리스 ui 구현, fact, clue 참조 정상화
 - **AI 활용**: Github Copilot을 사용한 issue to pr 생성으로 코드 구현, gemini cli를 통한 자료 조사, 코드 생성
