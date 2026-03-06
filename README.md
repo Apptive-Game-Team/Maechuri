@@ -107,3 +107,13 @@
 - **PR 로그**: [minio 기능 구현](https://github.com/Apptive-Game-Team/MaechuriMainServer/pull/2), [init fast api](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/2), [client 기능 구현](https://github.com/Apptive-Game-Team/MaechuriClient/pull/2), [CICD](https://github.com/Apptive-Game-Team/MaechuriClient/pull/6), [asset loading](https://github.com/Apptive-Game-Team/MaechuriClient/pull/4)
 - **링크**: [게임 링크](https://apptive-game-team.github.io/MaechuriClient/)
 - **다음 주 계획**: 인증 및 생태 유지 시스템 구축, 데이터 영속성 및 에셋 관리, 시나리오 생성 엔진 고도화
+
+## Dashboard
+### Main Server
+![Alt](https://repobeats.axiom.co/api/embed/807ba9a553e20eb1be8d9dc1e0a27d92cdbb647a.svg "Repobeats analytics image")
+
+### AI Server
+![Alt](https://repobeats.axiom.co/api/embed/c65b64c9b11cbeb770b768974e1e19fbbe55eb88.svg "Repobeats analytics image")
+
+### Client
+![Alt](https://repobeats.axiom.co/api/embed/0004691c34d22cb3f6baaff27f39c42fa380925a.svg "Repobeats analytics image")
