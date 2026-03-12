@@ -8,6 +8,16 @@
 - Al Tools: Gemini Cli, Github Copilot
 
 ## 주간 진행 상황
+### Week 11 (26.03.02 - 26.03.08)
+- **작업 내역**: 시나리오 생성 로직 고도화
+- **AI 활용**: Github Copilot을 사용한 issue to pr 생성으로 코드 구현, gemini cli를 통한 자료 조사, 코드 생성
+- **완료 기능**: 시나리오 생성 로직 고도화
+- **PR 로그**:
+    - [시나리오 생성 고도화](https://github.com/Apptive-Game-Team/MaechuriAIServer/pull/68)
+    - [시나리오 선택 페이지 - main](https://github.com/Apptive-Game-Team/MaechuriMainServer/pull/37)
+    - [시나리오 선택 페이지 - client](https://github.com/Apptive-Game-Team/MaechuriClient/pull/31)
+    - [오늘의 시나리오 로직 수정](https://github.com/Apptive-Game-Team/MaechuriMainServer/pull/39)
+
 ### Week 10 (26.02.23 - 26.03.01)
 - **작업 내역**: 자동 이미지 생성 기능 구현, database 구조 단순화, map 시각화 관리자 페이지
 - **AI 활용**: Github Copilot을 사용한 issue to pr 생성으로 코드 구현, gemini cli를 통한 자료 조사, 코드 생성
