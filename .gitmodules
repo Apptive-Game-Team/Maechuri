@@ -1,9 +1,12 @@
-[submodule "MaechuriClient"]
-	path = MaechuriClient
+[submodule "client"]
+	path = client
 	url = https://github.com/Apptive-Game-Team/MaechuriClient
-[submodule "MaechuriAIServer"]
-	path = MaechuriAIServer
+[submodule "ai-server"]
+	path = ai-server
 	url = https://github.com/Apptive-Game-Team/MaechuriAIServer
-[submodule "MaechuriMainServer"]
-	path = MaechuriMainServer
+[submodule "main-server"]
+	path = main-server
 	url = https://github.com/Apptive-Game-Team/MaechuriMainServer
+[submodule "database"]
+	path = database
+	url = https://github.com/Apptive-Game-Team/MaechuriDatabase
