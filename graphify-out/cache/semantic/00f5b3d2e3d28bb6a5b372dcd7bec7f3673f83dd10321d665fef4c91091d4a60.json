@@ -1,0 +1,1 @@
+{"nodes": [{"id": "chat_system_prompt", "label": "Suspect Chat System Prompt", "file_type": "document", "source_file": "ai-server/app/prompts/chat/system.txt", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null}], "edges": [], "hyperedges": []}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "critic_director_prompt", "label": "Director Critic Prompt", "file_type": "document", "source_file": "ai-server/app/prompts/critic/director.txt", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null}], "edges": [], "hyperedges": []}
